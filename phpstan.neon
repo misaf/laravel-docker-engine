@@ -1,0 +1,9 @@
+parameters:
+
+    paths:
+        - src
+
+    configDirectories:
+        - config
+
+    level: 10
